@@ -214,7 +214,7 @@ img {
   right: 0;
   bottom: 0;
   width: 291px;
-  z-index: var(--z-normal);
+  z-index: var(--z-absolute);
 }
 
 .home__social {
